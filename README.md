@@ -1,6 +1,8 @@
 # StateFeedbackControl
 Waypoint following controller design for vehicles using feedback controller
 
+Project Video: https://www.youtube.com/watch?v=qx8Lr2ULOj8&t=181s
+
 •  Vehicle models
 •  Waypoint following controller design for vehicles
 •  Controller design with state feedback control
